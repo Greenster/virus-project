@@ -1,5 +1,5 @@
-#Java Automation Project
-##Base Point for Java Automation Projects
+#Virus Project
+##Base Point for Virus Projects
 
 *Project for creating automation tests using Selenium WebDriver and TestNG.*
 
